@@ -65,9 +65,4 @@ pip install -r requirements.txt
 jupyter notebook notebooks/churn_analysis.ipynb
 ```
 
-## Pistes d'amélioration
 
-- Tester Gradient Boosting / XGBoost.
-- Optimiser les hyperparamètres (GridSearchCV).
-- Traiter le déséquilibre de classes avec SMOTE.
-- Ajuster le seuil de décision selon le coût métier (faux négatif vs faux positif).
