@@ -1,14 +1,11 @@
 <<<<<<< HEAD
-# Prédiction du Churn Client — Telco Customer Churn
 
-Projet de data science (stage) : prédire la résiliation (churn) des clients d'une entreprise de télécommunications à partir de leurs caractéristiques contractuelles, de leurs services souscrits et de leur facturation.
-=======
+Projet de data science  : prédire la résiliation (churn) des clients d'une entreprise de télécommunications à partir de leurs caractéristiques contractuelles, de leurs services souscrits et de leur facturation.
+
 # Telco_Customer_Churn
 # Prédiction du Churn Client — Telco Customer Churn
 
 Projet de data science : prédire la résiliation (churn) des clients d'une entreprise de télécommunications à partir de leurs caractéristiques contractuelles, de leurs services souscrits et de leur facturation.
->>>>>>> 87d8b422d2877a3526f7c0609c3d6f4d55abce81
-
 ## Dataset
 
 **Telco Customer Churn** (IBM Sample Dataset) — 7 043 clients, 21 colonnes.
