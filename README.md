@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 # Prédiction du Churn Client — Telco Customer Churn
 
 Projet de data science (stage) : prédire la résiliation (churn) des clients d'une entreprise de télécommunications à partir de leurs caractéristiques contractuelles, de leurs services souscrits et de leur facturation.
+=======
+# Telco_Customer_Churn
+# Prédiction du Churn Client — Telco Customer Churn
+
+Projet de data science : prédire la résiliation (churn) des clients d'une entreprise de télécommunications à partir de leurs caractéristiques contractuelles, de leurs services souscrits et de leur facturation.
+>>>>>>> 87d8b422d2877a3526f7c0609c3d6f4d55abce81
 
 ## Dataset
 
@@ -30,7 +37,11 @@ telco-churn-project/
 
 ## Démarche
 
+<<<<<<< HEAD
 1. **Compréhension du dataset** — dimensions, types, distribution de la cible.
+=======
+1. 
+>>>>>>> 87d8b422d2877a3526f7c0609c3d6f4d55abce81
 2. **Nettoyage** — conversion de `TotalCharges` en numérique, gestion des valeurs manquantes (clients à `tenure = 0`), suppression de `customerID` des features.
 3. **EDA / visualisations** — distribution du churn, lien avec l'ancienneté, les charges mensuelles, le type de contrat et le service internet, matrice de corrélation.
 4. **Prétraitement** — encodage one-hot des variables catégorielles, split train/test stratifié (80/20), standardisation pour la régression logistique.
@@ -64,9 +75,13 @@ pip install -r requirements.txt
 jupyter notebook notebooks/churn_analysis.ipynb
 ```
 
+<<<<<<< HEAD
 ## Pistes d'amélioration
 
 - Tester Gradient Boosting / XGBoost.
 - Optimiser les hyperparamètres (GridSearchCV).
 - Traiter le déséquilibre de classes avec SMOTE.
 - Ajuster le seuil de décision selon le coût métier (faux négatif vs faux positif).
+=======
+
+>>>>>>> 87d8b422d2877a3526f7c0609c3d6f4d55abce81
