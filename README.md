@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 Projet de data science  : prédire la résiliation (churn) des clients d'une entreprise de télécommunications à partir de leurs caractéristiques contractuelles, de leurs services souscrits et de leur facturation.
 
