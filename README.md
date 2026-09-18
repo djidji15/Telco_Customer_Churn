@@ -72,8 +72,7 @@ pip install -r requirements.txt
 jupyter notebook notebooks/churn_analysis.ipynb
 ```
 
-<<<<<<< HEAD
-## Pistes d'amélioration
+
 
 - Tester Gradient Boosting / XGBoost.
 - Optimiser les hyperparamètres (GridSearchCV).
